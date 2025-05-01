@@ -1,8 +1,28 @@
-# React + Vite
+🎮 Game Store
+A fully responsive web application built with React, allowing users to browse, search, and purchase games. Includes filtering, game trailers, cart functionality, and a clean, modern UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+  - 🔍 Search & Filter by game title or category
 
-Currently, two official plugins are available:
+  - ⭐ Rate Games using an interactive star rating system
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  - 🛒 Add to Cart, remove, and checkout
+
+  - 🎥 Watch Game Trailers (YouTube and video support)
+
+  - 🖼️ Featured Games Slider on the homepage
+
+  - 💳 Simple checkout simulation
+
+  - ✅ Smooth UI with modals and transitions
+
+
+🛠️ Tech Stack
+
+  - React (with Hooks)
+
+  - React Router DOM
+
+  - CSS (custom styles)
+
+  - JavaScript (ES6)
