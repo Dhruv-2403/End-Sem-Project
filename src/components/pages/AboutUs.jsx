@@ -1,6 +1,6 @@
 import React from 'react';
 import './AboutUs.css';
-import GameController from "../Image/game-controller.jpg";
+
 
 const AboutUs = () => {
   return (
@@ -8,7 +8,7 @@ const AboutUs = () => {
       <div className="about-content">
         <div className="about-header">
           <h1 className="about-title">About GameVerse Store</h1>
-          <img src={GameController} alt="Game Controller" className="header-image" />
+        
         </div>
         
         <div className="about-section">
