@@ -1,0 +1,29 @@
+.category-slider {
+  margin-bottom: 30px;
+  overflow-x: auto;
+  padding: 10px 0;
+}
+
+.category-buttons {
+  display: flex;
+  gap: 15px;
+  min-width: max-content;
+}
+
+.category-button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 20px;
+  background: #3498db;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.category-button.active {
+  background: #2ecc71;
+}
+
+.category-button:hover {
+  transform: translateY(-2px);
+}
