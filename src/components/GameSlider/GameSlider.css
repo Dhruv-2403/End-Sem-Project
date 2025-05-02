@@ -108,36 +108,3 @@
   background: #1565c0;
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-  .game-slider {
-    padding: 1rem 0;
-  }
-
-  .slider-image {
-    height: 300px;
-  }
-
-  .slider-info {
-    padding: 0.5rem;
-  }
-
-  .slider-info h3 {
-    font-size: 1.2rem;
-  }
-
-  .slider-info p {
-    font-size: 0.9rem;
-  }
-
-  .slider-btn {
-    padding: 0.8rem;
-    font-size: 1.2rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .slider-image {
-    height: 250px;
-  }
-}
